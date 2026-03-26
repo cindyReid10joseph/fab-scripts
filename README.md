@@ -11,3 +11,11 @@ No requiere instalación adicional si ya se cuenta con Python 3.
 Ejecutar el archivo con el siguiente comando:
 ```bash
 python text_stats.py```
+## Características
+- conteo de caracteres
+- conteo de palabras
+- conteo de líneas
+- conteo de espacios
+- conteo de vocales
+- palabra más larga
+- texto en mayúsculas
